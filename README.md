@@ -1,6 +1,28 @@
-# AI Stats Lab: 3-Layer Neural Network
+# AI Stats Lab: Training and Evaluating Classification Models
 
-This lab is based on artificial neurons, sigmoid activation, layered neural networks, and backpropagation.
+## Duration
+
+Estimated time: 2 hours
+
+---
+
+## Topic
+
+This lab is based on evaluating binary classification models using:
+
+- Confusion matrix
+- Recall
+- Fallout
+- Precision
+- Accuracy
+- Decision thresholds
+- Effect of changing thresholds
+- Training two classifiers
+- Comparing model performance
+
+The key idea is that classification evaluation is not just accuracy. Different applications may require different trade-offs. For example, lowering a threshold may increase recall but also increase fallout.
+
+---
 
 ## Files
 
